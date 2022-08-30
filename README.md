@@ -35,6 +35,3 @@ msgbox "texto"
 else 
 msgbox "texto"
 ~~~
-#### Actividades con la condicional **si**
-
-
