@@ -16,3 +16,25 @@ el codigo seria:
 ~~~
 nom "el valor de la variable"
 ~~~
+
+### IMPUBOX
+se ultiliza para deperle informacion a un usuario y quede guardada en una variable 
+el codigo es:
+~~~
+a = inputbox("texto")
+~~~
+si la informacion que daran es en numero poner al princio **int**
+quedaria de la siguiente manera:
+~~~
+int(inputbox("texto"))
+
+### CONDICIONAL SI
+~~~
+If 1 < 9 then 
+msgbox "texto"
+else 
+msgbox "texto"
+~~~
+#### Actividades con la condicional **si**
+
+
