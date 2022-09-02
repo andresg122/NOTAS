@@ -61,7 +61,9 @@ for a = 1 to 10
   msgbox "hola"
 next a
  ~~~
- esto quiere decir que mostrara 1o veces el **hola** en pantalla.
+ esto quiere decir que mostrara 10 veces el **hola** en pantalla.
+ 
+ ejercicio
  ~~~
  Sub estudiante()
  For x = 1 To 4
