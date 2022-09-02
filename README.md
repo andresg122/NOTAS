@@ -90,3 +90,23 @@ next a
   
 End Sub
 ~~~
+
+~~~
+Sub nombres()
+For x = 2 To 21
+p = xd.Cells(x, 2)
+ñ = Mid(p, 1, 2)
+
+e = xd.Cells(x, 3)
+ k = Int(Len(e))
+b = Mid(e, k - 1, 2)
+
+c = xd.Cells(x, 1)
+ q = Mid(c, 1, 2)
+ 
+ xd.Cells(x, 4) = ñ & b & q
+ 
+ Next x
+ 
+End Sub
+~~~
