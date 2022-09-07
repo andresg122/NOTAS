@@ -1,15 +1,13 @@
 # NOTAS
 # REGISTRO
-~~~
-para hacer una variable nom,num
-el codigo seria:
-~~~
-nom "el valor de la variable"
-~~~
+# Algoritmo
+[ Ir a Algoritmo ](algoritmo.md)
 
-### INPUTBOX
-[Ir a Codigo Input](Input.md)
+# INPUTBOX
+[ Ir a Codigo Input ](Input.md)
 
+# Variables Nom Num
+[ Ir a Variable Nom Nun ](variableNomNum.md)
 si la informacion que daran es en numero poner al princio **int**
 quedaria de la siguiente manera:
 
