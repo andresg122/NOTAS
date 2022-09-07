@@ -1,6 +1,6 @@
-# NOTAS
-# REGISTRO
-# Algoritmo
+# Mi agenda
+
+## Algoritmo
 [ Ir a Algoritmo ](algoritmo.md)
 
 ## INPUTBOX
