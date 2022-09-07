@@ -3,17 +3,15 @@
 # Algoritmo
 [ Ir a Algoritmo ](algoritmo.md)
 
-# INPUTBOX
+## INPUTBOX
 [ Ir a Codigo Input ](Input.md)
 
-# Variables Nom Num
+## Variables Nom Num
 [ Ir a Variable Nom Nun ](variableNomNum.md)
-si la informacion que daran es en numero poner al princio **int**
-quedaria de la siguiente manera:
 
-~~~
-int(inputbox("texto"))
-~~~
+## Int
+[ Ir a Int](intVB.md)
+
 ### CONDICIONAL SI
 ~~~
 If 1 < 9 then 
