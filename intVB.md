@@ -6,7 +6,7 @@ quedaria de la siguiente manera:
 
 ´´´´
 
-int(inputbox("texto"))
+    int(inputbox("texto"))
 
 
 ´´´´
