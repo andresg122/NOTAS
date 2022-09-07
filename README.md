@@ -1,22 +1,22 @@
 # Mi agenda
 
 ## Algoritmo
-[ Ir a Algoritmo ](algoritmo.md)
+- [ Ir a Algoritmo ](algoritmo.md)
 
 ## INPUTBOX
-[Ir a Codigo Input ](Input.md)
+- [Ir a Codigo Input ](Input.md)
 
 ## Variables Nom Num
-[Ir a Variable Nom Nun ](variableNomNum.md)
+- [Ir a Variable Nom Nun ](variableNomNum.md)
 
 ## Int
-[Ir a Int](intVB.md)
+- [Ir a Int](intVB.md)
 
 ## CONDICIONAL SI
-[Ir a Condicional SI](condicionalsi.md)
+- [Ir a Condicional SI](condicionalsi.md)
 
 ## FUNCIONES
-[Ir a Funciones](funcion.md)
+- [Ir a Funciones](funcion.md)
 
 ## CICLOS
-[ Ir a Ciclo](ciclos.md)
+- [Ir a Ciclo](ciclos.md)
