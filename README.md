@@ -4,91 +4,19 @@
 [ Ir a Algoritmo ](algoritmo.md)
 
 ## INPUTBOX
-[ Ir a Codigo Input ](Input.md)
+[Ir a Codigo Input ](Input.md)
 
 ## Variables Nom Num
-[ Ir a Variable Nom Nun ](variableNomNum.md)
+[Ir a Variable Nom Nun ](variableNomNum.md)
 
 ## Int
-[ Ir a Int](intVB.md)
+[Ir a Int](intVB.md)
 
-### CONDICIONAL SI
-~~~
-If 1 < 9 then 
-msgbox "texto"
-else 
-msgbox "texto"
-~~~
-#### actividades con la condicional **si**
-<a href="https://ibb.co/8KGvcHK"><img src="https://i.ibb.co/8KGvcHK/a.jpg" alt="a" border="0"></a>
-<a href="https://ibb.co/dJtzMDj"><img src="https://i.ibb.co/dJtzMDj/aa.jpg" alt="aa" border="0"></a>
+## CONDICIONAL SI
+[Ir a Condicional SI](condicionalsi.md)
 
-diagrama de flujo 
+## FUNCIONES
+[Ir a Funciones](funcion.md)
 
-<a href="https://ibb.co/d0tygPp"><img src="https://i.ibb.co/d0tygPp/222.jpg" alt="222" border="0"></a>
-
-### FUNCIONES 
-~~~
-function a (r,t)
-c =  r * t
-a = c
-end function
-~~~
-
-### SIGLOS 
-El siglo **for** sirve para repetir una tarea las veces que sean indicadas
-ejemlo: 
-~~~
-for a = 1 to 10
-  msgbox "hola"
-next a
- ~~~
- esto quiere decir que mostrara 10 veces el **hola** en pantalla.
- 
- ejercicio
- ~~~
- Sub estudiante()
- For x = 1 To 4
-   n = "SI"
-   b = "NO"
-   d = InputBox("usted va aportar ? (SI o NO)")
-   If d = n Then
-    a = Int(InputBox("cuanto va aportar? "))
-    f = f + 1
-    w = w + a
-   Else
-     h = h + 1
-   End If
-   If a > 10000 Then
-     e = e + 1
-     End If
- Next x
- p = w / f
-  MsgBox "total de aportes: " & w
-  MsgBox "el promedio es: " & p
-  MsgBox "estudiante que aportaron: " & f
-  MsgBox "estudiantes que no apoertaron: " & h
-  MsgBox "estudiantes que dieron más de 10,000: " & e
-  
-End Sub
-~~~
-
-~~~
-Sub nombres()
-For x = 2 To 21
-p = xd.Cells(x, 2)
-ñ = Mid(p, 1, 2)
-
-e = xd.Cells(x, 3)
- k = Int(Len(e))
-b = Mid(e, k - 1, 2)
-
-c = xd.Cells(x, 1)
- q = Mid(c, 1, 2)
- 
- xd.Cells(x, 4) = ñ & b & q
- 
- Next x
- 
-End Sub
-~~~
+## CICLOS
+[ Ir a Ciclo](ciclos.md)
