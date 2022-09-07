@@ -1,5 +1,5 @@
 # NOTAS
-registro de notas y clases
+# REGISTRO
 ### PARADICMAS ESTRUCTURADOS 
 #### algoritmo 
 Tiene que tener un principio y un final.
@@ -8,7 +8,6 @@ Tiene que tener un principio y un final.
  o tambien puedes escribir
  Esc "texto"
  el codigo seria:
-~~~
 Msgbox "texto"
 ~~~
 para hacer una variable nom,num
@@ -17,12 +16,8 @@ el codigo seria:
 nom "el valor de la variable"
 ~~~
 
-### IMPUBOX
-se ultiliza para deperle informacion a un usuario y quede guardada en una variable 
-el codigo es:
-~~~
-a = inputbox("texto")
-~~~
+### INPUTBOX
+[Ir a Codigo Input](Input.md)
 
 si la informacion que daran es en numero poner al princio **int**
 quedaria de la siguiente manera:
