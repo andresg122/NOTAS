@@ -22,4 +22,4 @@
 - [Ir a Ciclo](ejercicios/ciclos.md)
 
 ## CONDICIONAL QM 
-[Ir a Ciclo](https://github.com/andresg122/ejercicio_wihle)
+[Ir a condicional](https://github.com/andresg122/ejercicio_wihle)
